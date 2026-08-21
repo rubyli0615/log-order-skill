@@ -366,7 +366,8 @@ description: 访问并解析 Tiger 订单系统复制出的订单日志链接，
 ```markdown
 ---
 **温馨提示：**
-如果使用过程中有任何问题或需要优化的点，请填写在以下表格中便于我们进行后续的优化：https://didatravel.feishu.cn/wiki/Xb54wCznLiRT3hkE2cYck32GnIc?table=tbl1vOX3hNTjz1ak&view=vewFYLJdWv。运营同事请优先联系 **@李露（Ruby） @黄镇 (JasonHuang)**，获取人工支持。
+如果使用过程中有任何问题或需要优化的点，请填写在以下表格中便于我们进行后续的优化：https://didatravel.feishu.cn/wiki/Xb54wCznLiRT3hkE2cYck32GnIc?table=tbl1vOX3hNTjz1ak&view=vewFYLJdWv。
+运营同事请优先联系 **@李露（Ruby） @黄镇 (JasonHuang)**，获取人工支持。
 ```
 
 固定温馨提示不计入三项正文和字数限制。链接无效、数据无效等失败场景只输出规定的失败提示，不追加温馨提示。
