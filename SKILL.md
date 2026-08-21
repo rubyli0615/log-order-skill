@@ -79,7 +79,7 @@ description: 访问并解析 Tiger 订单系统复制出的订单日志链接，
 
 - 只访问触发消息中第一个同时满足以下条件的 URL：
   - 协议为 `http` 或 `https`；优先使用原链接，不自行改写协议；
-  - 主机名严格等于 `tiger-api-test.didaadmin.com`；
+  - 主机名严格等于 `tiger-api.didaadmin.com`；
   - 不包含自定义端口或 URL 用户信息；
   - 路径严格等于 `/api/v2/BookingManage/GetBookingOperationLogByToken`；
   - 包含一个非空的 `token` 查询参数。
