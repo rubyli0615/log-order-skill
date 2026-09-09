@@ -27,9 +27,9 @@
 
 | 类型 | 允许的表头 |
 |---|---|
-| 渠道订单号 | `渠道订单号`、`渠道预订号`、`channel_booking_number`、`channel booking number` |
-| 供应商订单号 | `供应商订单号`、`供应商预订号`、`supplier_booking_number`、`supplier booking number` |
-| 通用订单号 | `订单号`、`预订号`、`booking_number`、`booking number` |
+| 渠道订单号 | `渠道订单号`、`channel_booking_number`、`channel booking number` |
+| 供应商订单号 | `供应商订单号`、`supplier_booking_number`、`supplier booking number` |
+| 通用订单号 | `订单号`、`booking_number`、`booking number` |
 
 识别前只做以下标准化：去除首尾空格、英文转小写、将下划线和连续空格统一为单个空格。标准化后仍须与上表完全匹配；不得模糊匹配、猜测缩写，或把“确认号”“工单号”“酒店订单号”等其他列当作订单号。
 
